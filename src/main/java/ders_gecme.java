@@ -17,6 +17,7 @@ public class ders_gecme {
         turkce = input.nextDouble();
 
         double ortalama = (mat + fizik + kimya + biyoloji + turkce) / 5;
+
         if (ortalama < 55) {
             System.out.println("sınıfta kaldınız.. :(");
         } else {
