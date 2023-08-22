@@ -29,6 +29,5 @@ public class ucak_bileti {
             }
             System.out.print("toplam tutar : " + toplamFiyat + " TL ");
         }
-
     }
 }
